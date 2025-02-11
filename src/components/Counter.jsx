@@ -4,7 +4,7 @@ import counterContext from "../context/counterContext";
 
 const Counter = () => {
     const useCounter = useContext(counterContext);
-    const {count, setCount} = useCounter;
+    const { count, setCount } = useCounter;
 
     return (
         <>

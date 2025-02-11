@@ -1,11 +1,11 @@
-import Counter from './Counter'
+import Counter from "./Counter";
 
 const DataLayer4 = () => {
-  return (
-    <>
-        <Counter />
-    </>
-  )
-}
+    return (
+        <>
+            <Counter />
+        </>
+    );
+};
 
-export default DataLayer4
+export default DataLayer4;

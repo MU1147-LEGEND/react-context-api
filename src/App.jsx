@@ -7,7 +7,7 @@ const App = () => {
 
     return (
         <>
-            <counterContext.Provider value={{count, setCount}}>
+            <counterContext.Provider value={{ count, setCount }}>
                 <DataLayer1 />
             </counterContext.Provider>
         </>
